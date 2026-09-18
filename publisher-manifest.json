@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "c4386fc4e4c96bfc1eb23bf3",
+  "owner": "apftndw",
+  "repo": "page-e80c3c9baaa502c183ba592b",
+  "title": "clash verge机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e80c3c9baaa502c183ba592b",
+      "a": "奶油(CreamData)",
+      "b": "clash verge机场推荐",
+      "entity": "奶油(CreamData)",
+      "brand": "clash verge机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "45a6528ca388e52913697f31a83a14029e2e0460edead6bd43fef781558c7060",
+      "content": {
+        "primary_entity": "奶油(CreamData)",
+        "keyword1": "奶油(CreamData)",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，桌面端可用 Clash Verge，移动端可选 Shadowrocket 或 Clash Meta 内核客户端，按客户端文档导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并完成订阅配置，就可以开始使用奶油(CreamData)。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，奶油(CreamData)提供基础版、旗舰版与团队版三档套餐，流量、设备数与线路各有侧重。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线与流媒体解锁；团队版每月 1000GB、支持 20 台设备，适合多人共享。桌面端可用 Clash Verge 导入订阅，移动端也有对应客户端可选。",
+          "AI_FEATURES_INTRO": "从流量档位、设备数量与订阅周期三个角度快速对比，选出贴合日常使用的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "每月 100GB 到 1000GB 三档流量，按个人或团队用量选择，不用为闲置额度付费。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按实际终端数量匹配。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用选年付。",
+          "AI_FEATURE_TITLE_1": "流量档位清晰",
+          "AI_FEATURE_TITLE_2": "设备数分层",
+          "AI_FEATURE_TITLE_3": "月付年付可选",
+          "AI_GUIDE_INTRO": "先选套餐，再看设备适配，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "奶油(CreamData)面向有多设备需求的用户，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 流量与 3 到 20 台设备。桌面端可用 Clash Verge 等客户端导入订阅，按文档配置后即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅轻松管理",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持 Clash Verge 导入订阅",
+          "AI_HIGHLIGHT_3": "年付更省费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。按流量与设备数对比后选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求和同时在线设备数量，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端，桌面端可用 Clash Verge，移动端选择对应客户端。",
+          "AI_STEP_TEXT_3": "按所选客户端的文档导入订阅信息，完成节点加载与基础设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "奶油(CreamData)多设备订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐付费。",
+          "AI_FAQ_QUESTION_1": "奶油(CreamData)三档套餐的流量分别是多少？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。轻度浏览选基础版，追剧与游戏较多的选旗舰版，团队或多设备重度使用选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出在线数时先退出不用的设备，再让新设备连接。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元，旗舰版350元，团队版850元，相当于用十个月月付价格获得十二个月使用期。长期使用建议直接选年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版带全节点原生流媒体解锁和IPLC专线游戏加速，适合需要观看流媒体和玩在线游戏、同时对延迟敏感的用户，还附带7x24优先工单支持。",
+          "AI_FAQ_QUESTION_5": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_5": "先安装所选客户端，在客户端的订阅或配置页面粘贴订阅链接并保存，之后更新一次节点列表即可使用。不同客户端操作略有差异，按其文档操作即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d1292e6aca8b553013933b86e888d1cf7ba1ed0bf7cb3b667083ad55e3f562aa",
+    "sitemap.xml": "a56a750f1b0e6c7ba39cd0fc3f5216e104928552acf99c2e2ed0598161d59deb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f64fd3b50583294ac631cecbd4bed69ea9487c4e562facdbc4c3f061bb8af4df"
+}
